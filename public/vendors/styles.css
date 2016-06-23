@@ -1,0 +1,48 @@
+/*#FCFFF5 #D1DBBD #91AA9D #3E606F #193441*/
+body {
+
+}
+
+h1 {
+  width:100%;
+  text-align: center;
+  padding-top: auto;
+  color: #F2F2F2;
+}
+
+#mainDiv {
+  
+  border : 1px solid;
+  background-color: #1C344C;
+}
+.container {
+margin: 10px 20% 10px 20%;
+padding: 5px;
+background-color: #F2F2F2;
+border-style: solid;
+border-radius: 5px;
+}
+
+.completed {
+  background-color: #91C46C;
+}
+
+#inputDiv {
+  margin: 10px 20% 10px 20%;
+}
+
+#taskSub {
+  float: right;
+}
+
+#taskIn {
+  width: 80%;
+}
+
+.compButton {
+  float: right;
+}
+
+.delButton {
+  float: right;
+}
